@@ -73,7 +73,7 @@ python phong_model.py
 
 **phong模型**  **phong模型（添加硬阴影）**
 
-<img width="480" height="360" alt="phong" src="https://github.com/user-attachments/assets/88ff310d-dd68-4d15-9eda-8433ec762736" /><img width="480" height="360" alt="硬阴影phong" src="https://github.com/user-attachments/assets/634e8d70-7850-4ad3-bab3-a766b62c7727" />
+<img width="480" height="360" alt="phong" src="https://github.com/user-attachments/assets/88ff310d-dd68-4d15-9eda-8433ec762736" /> <img width="480" height="360" alt="硬阴影phong" src="https://github.com/user-attachments/assets/634e8d70-7850-4ad3-bab3-a766b62c7727" />
 
 
 ## Phong vs Blinn-Phong
