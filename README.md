@@ -1,5 +1,7 @@
 # Phong 光照模型实验
 
+姓名：唐悦婷 学号：202311061051 专业：计算机科学与技术（公费师范）
+
 基于 Taichi 实现的交互式 Phong 光照模型渲染器，包含 Blinn-Phong 升级和硬阴影功能。
 
 ## 功能特性
@@ -68,6 +70,11 @@ python phong_model.py
 ## 运行效果
 
 程序启动后会显示一个交互式窗口，左侧为红色球体，右侧为紫色圆锥。通过右侧面板可以实时调节材质参数，观察不同光照效果。
+
+**phong模型**  **phong模型（添加硬阴影）**
+
+<img width="480" height="360" alt="phong" src="https://github.com/user-attachments/assets/88ff310d-dd68-4d15-9eda-8433ec762736" /><img width="480" height="360" alt="硬阴影phong" src="https://github.com/user-attachments/assets/634e8d70-7850-4ad3-bab3-a766b62c7727" />
+
 
 ## Phong vs Blinn-Phong
 
